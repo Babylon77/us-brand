@@ -6,37 +6,33 @@ const products = [
   {
     id: 1,
     name: 'Premium T-Shirt',
-    href: '#',
-    price: '$35',
-    description: 'Ultra-soft, perfectly fitted T-shirt designed for all-day comfort.',
-    imageSrc: '/images/premium-tshirt.webp',
+    price: 35,
+    description: 'Our signature t-shirt, made with premium cotton and perfect fit technology.',
+    imageSrc: './images/premium-tshirt.webp',
     features: ['100% US-sourced cotton', 'Perfect fit for real bodies', 'Reinforced stitching', 'Wrinkle-resistant']
   },
   {
     id: 2,
-    name: 'Long Sleeve Henley',
-    href: '#',
-    price: '$45',
-    description: 'Versatile henley with a modern cut and exceptional comfort.',
-    imageSrc: '/images/Woven-Trim-HEnley-Gray.webp',
+    name: 'Woven Trim Henley',
+    price: 45,
+    description: 'A modern take on the classic henley, featuring our signature woven trim.',
+    imageSrc: './images/Woven-Trim-HEnley-Gray.webp',
     features: ['Breathable fabric blend', 'Precision cut for comfort', 'Button placket detail', 'Perfect for layering']
   },
   {
     id: 3,
-    name: 'Polo Shirt',
-    href: '#',
-    price: '$55',
-    description: 'Classic polo redesigned for superior comfort and a modern look.',
-    imageSrc: '/images/Polo-Shirt.webp',
+    name: 'Performance Polo',
+    price: 55,
+    description: 'Engineered for comfort and durability, perfect for any occasion.',
+    imageSrc: './images/Polo-Shirt.webp',
     features: ['Performance fabric', 'Stays tucked all day', 'Wrinkle and fade resistant', 'Perfect collar structure']
   },
   {
     id: 4,
     name: 'Untucked Button Down',
-    href: '#',
-    price: '$75',
-    description: 'The perfect button-down designed to be worn untucked with style.',
-    imageSrc: '/images/Untucked.webp',
+    price: 75,
+    description: 'Designed to be worn untucked, with a modern, relaxed fit.',
+    imageSrc: './images/Untucked.webp',
     features: ['Precision tailored length', 'Premium fabric blend', 'Perfect fit for all body types', 'Versatile design']
   },
 ];
