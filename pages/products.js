@@ -8,7 +8,7 @@ const products = [
     name: 'Premium T-Shirt',
     price: 35,
     description: 'Our signature t-shirt, made with premium cotton and perfect fit technology.',
-    imageSrc: '/us-brand/images/premium-tshirt.webp',
+    imageSrc: 'images/premium-tshirt.webp',
     features: ['100% US-sourced cotton', 'Perfect fit for real bodies', 'Reinforced stitching', 'Wrinkle-resistant']
   },
   {
@@ -16,7 +16,7 @@ const products = [
     name: 'Woven Trim Henley',
     price: 45,
     description: 'A modern take on the classic henley, featuring our signature woven trim.',
-    imageSrc: '/us-brand/images/Woven-Trim-HEnley-Gray.webp',
+    imageSrc: 'images/Woven-Trim-HEnley-Gray.webp',
     features: ['Breathable fabric blend', 'Precision cut for comfort', 'Button placket detail', 'Perfect for layering']
   },
   {
@@ -24,7 +24,7 @@ const products = [
     name: 'Performance Polo',
     price: 55,
     description: 'Engineered for comfort and durability, perfect for any occasion.',
-    imageSrc: '/us-brand/images/Polo-Shirt.webp',
+    imageSrc: 'images/Polo-Shirt.webp',
     features: ['Performance fabric', 'Stays tucked all day', 'Wrinkle and fade resistant', 'Perfect collar structure']
   },
   {
@@ -32,7 +32,7 @@ const products = [
     name: 'Untucked Button Down',
     price: 75,
     description: 'Designed to be worn untucked, with a modern, relaxed fit.',
-    imageSrc: '/us-brand/images/Untucked.webp',
+    imageSrc: 'images/Untucked.webp',
     features: ['Precision tailored length', 'Premium fabric blend', 'Perfect fit for all body types', 'Versatile design']
   },
 ];
