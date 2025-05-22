@@ -98,9 +98,6 @@ export default function Products() {
                       >
                         Add to Cart
                       </button>
-                      <Link href={product.href} className="btn btn-outline text-sm">
-                        Learn More
-                      </Link>
                     </div>
                   </div>
                 </div>
